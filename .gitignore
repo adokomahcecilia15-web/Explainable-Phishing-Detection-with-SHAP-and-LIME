@@ -1,0 +1,6 @@
+# respondent-level survey files must never be public
+knust_dataset.csv
+knust_raw_export*.csv
+cleaned_questionnaire_dataset.csv
+*questionnaire*.csv
+*respondent*.xlsx
