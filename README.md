@@ -28,7 +28,7 @@ Data cleaning for the UCI branch: 357 rows belonging to label-conflicting featur
 | KNUST user evaluation survey | Collected by the authors (`knust_dataset.csv`) | Human-centred evaluation | 299 respondents, 36 items. **Not included in this repository** for privacy and ethical reasons. |
 
 The two public datasets are not redistributed here. Download them from their sources and place them where the notebook expects them (see Reproducibility). SHA-256 checksums of all three files used in the reported run are in `Table_Data_Provenance_Checksums.csv`; the PhishTank time window is in `Table_PhishTank_Time_Window.csv`.
-
+In the reported run, all three files load from the private Kaggle dataset ceciliaadokomah/dataset-data.
 ## Repository Structure
 
 ```
@@ -50,18 +50,14 @@ Not in the repository: the KNUST survey file and the raw PhishTank and UCI CSVs.
 
 Versions are those recorded by the final single-pass run (Kaggle notebook, Linux, Python 3.12.13, CPU only; `Table_Runtime_Package_Versions.csv`):
 
-| Package | Version |
-| --- | --- |
-| Python | 3.12.13 |
-| XGBoost | 3.2.0 |
-| SHAP | 0.51.0 |
-| LIME | 0.2.0.1 |
-| scikit-learn | 1.6.1 |
-| imbalanced-learn | 0.14.1 |
-| pandas / NumPy / SciPy | 2.3.3 / 2.0.2 / 1.16.3 |
-| Matplotlib | 3.10.0 |
-| joblib | 1.5.3 |
-| openpyxl | 3.1.5 |
+Python 3.13.15
+XGBoost | 3.4.1
+SHAP | 0.52.0
+imbalanced-learn | 0.14.2
+pandas / NumPy / SciPy | 2.3.3 / 2.1.3 / 1.16.3
+joblib | 1.6.0
+Use Python 3.13 (the reported run used 3.13.15)
+a Spearman correlation on a KNUST questionnaire (299 received, 247 analysed after excluding 52 respondents under 18)
 
 ## Reproducibility
 
