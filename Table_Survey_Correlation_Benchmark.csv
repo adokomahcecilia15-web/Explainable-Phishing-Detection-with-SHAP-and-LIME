@@ -1,0 +1,7 @@
+Quantity,Value
+Item pairs,253
+Mean inter-item rho (observed),0.0013
+"Mean inter-item rho (columns shuffled, 95% range)",-0.0067 to 0.0079
+Pairs with rho > 0.2 (observed),0
+Share of pairs with |rho| > 0.114 (observed),0.0514
+"Same share, columns shuffled (95% range)",0.0276 to 0.0792

@@ -1,0 +1,5 @@
+Step,Action,Status
+1,Rollback to leakage-free vanilla baseline,Completed
+2,Characterise FN/FP profile with SHAP and feature values,Completed
+3,Target re-engineering at empirically identified feature: SSLfinal_State,Candidate identified; transformation requires methodological justification
+4,Validate targeted change across all five seeds without degrading global performance,Pending targeted transformation

@@ -1,0 +1,5 @@
+Stage,N
+Responses received,299
+Excluded (under 18 without guardian consent),52
+Analysed for SHAP trust,247
+Analysed for overall AI trust,247

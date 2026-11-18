@@ -1,0 +1,10 @@
+Statistic,Value
+Total URLs,12489
+Normal URLs,11864
+Anomalous URLs,625
+Anomaly Percentage,5.0
+Number of Features,8
+Isolation Forest Estimators,300
+Contamination,0.05
+Random State,42
+Scaling,StandardScaler

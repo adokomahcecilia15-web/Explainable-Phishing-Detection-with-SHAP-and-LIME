@@ -1,0 +1,3 @@
+Scale,Items,Cronbach_alpha
+"SHAP items (SHAP_Easy, SHAP_Indicators, Trust_SHAP)",3,0.0679
+"AI-trust items (Trust_AI_With_Explanations, XAI_Increases_Confidence, Prefer_Transparent_AI, AI_Explanations_Understanding)",4,0.1329

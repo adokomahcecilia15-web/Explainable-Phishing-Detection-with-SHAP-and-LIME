@@ -1,0 +1,16 @@
+Audit_Item,Count
+Original UCI rows,11055
+Original UCI features,30
+Exact duplicate feature rows,5270
+Exact duplicate feature+label rows,5206
+Conflicting-label feature vectors,64
+Rows involved in conflicting vectors,357
+Rows removed due to conflicting labels,357
+Additional duplicate rows removed,4977
+Final UCI modelling rows,5721
+Final UCI features,30
+Legitimate rows after cleaning,2766
+Phishing rows after cleaning,2955
+Missing values before imputation,0
+Remaining duplicate feature rows,0
+Remaining duplicate feature+label rows,0
