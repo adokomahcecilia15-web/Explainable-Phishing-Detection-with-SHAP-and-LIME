@@ -1,0 +1,3 @@
+Measure,N,Mean,Median,SD,Minimum,Maximum
+SHAP Explanation Trust,247,2.8623481781376516,3.0,1.4074711192240914,1,5
+AI Trust With Explanations,247,3.1295546558704452,3.0,1.4111263030426453,1,5

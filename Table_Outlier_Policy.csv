@@ -1,0 +1,3 @@
+Branch,Policy,Reason
+PhishTank,No outlier removal; Isolation Forest is intended to identify rare patterns.,Removing rare observations before anomaly detection would alter the target of Branch A.
+UCI,No outlier removal; tree-based classification is retained and exact duplicates are handled separately.,Tree split rules do not require Gaussian outlier treatment; deleting observations could remove valid phishing patterns.

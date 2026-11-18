@@ -1,0 +1,7 @@
+Parameter,Value
+random_state,42
+num_features,10
+num_samples,5000
+discretizer,quartile
+discretize_continuous,True
+kernel_width,4.107919181288746

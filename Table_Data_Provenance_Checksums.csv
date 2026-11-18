@@ -1,0 +1,4 @@
+Dataset,Path,Bytes,SHA256
+PhishTank (verified_online.csv),/kaggle/input/datasets/ceciliaadokomah/dataset-data/verified_online.csv,2289571,29b9945fc0497e24c3672ff39358acdcd569a7107129312c7294adf52387f893
+UCI (uci-ml-phishing-dataset.csv),/kaggle/input/datasets/ceciliaadokomah/dataset-data/uci-ml-phishing-dataset.csv,844373,3976cfdefe7f076de76fead121a26b542fbc9740b99a07499caf0cdc17a39b80
+KNUST (knust_dataset.csv),/kaggle/input/datasets/ceciliaadokomah/dataset-data/knust_dataset.csv,121310,b250afa8f662aa36bb46630c669857a4d9c9c2ac30304e69fda92f30ee03250e

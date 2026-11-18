@@ -1,0 +1,9 @@
+Quantity,Value
+Explained class,1 = Phishing
+Test instance index,10
+Model P(phishing),0.263415
+"LIME surrogate local prediction (linear, unclipped)",0.98934
+LIME surrogate intercept,0.381599
+LIME surrogate R^2 (explanation.score),0.703032
+Number of features,10
+Number of samples,5000
